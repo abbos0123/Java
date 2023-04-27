@@ -6,5 +6,5 @@ Java is a widely-used programming language for coding web applications. It has b
 
 |No|Book / Course|Resource|Status|
 |--|-------------|--------|------|
-|1|Java Core|[Java Core]()|:hourglass:|
-|2|Java Advanced|[Java Advanced]()|:hourglass:|
+|1|Java Core|[Java Core](https://github.com/abbos0123/Java/tree/main/Java-Core)|:hourglass:|
+|2|Java Advanced|[Java Advanced](https://github.com/abbos0123/Java/tree/main/Java-Advanced)|:hourglass:|
