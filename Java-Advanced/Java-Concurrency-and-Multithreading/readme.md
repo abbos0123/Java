@@ -1,4 +1,4 @@
-## Java Concurrenency and Multithreading :twisted_rightwards_arrows:
+# Java Concurrenency and Multithreading :twisted_rightwards_arrows:
 
 ```
 
@@ -12,6 +12,13 @@ for maximum utilization of the CPU. A thread in Java is a lightweight process re
 resources to create and share the process resources.
 ```
 
+## Study Plan 📚
+
+|No|Book / Course|Resource|Page / Website|Status|
+|--|----|--------|----|------|
+|1.|Java Threads, 3rd Edition|[Java Threads, 3rd Edition](https://github.com/abbos0123/Java/tree/main/Java-Advanced/Java-Concurrency-and-Multithreading/Java%20Threads)|<p align="center">244</p>|:hourglass:|
+
+
 ## Study plan 
 <br />
 
@@ -23,5 +30,6 @@ resources to create and share the process resources.
 |3.|Java Concurrency|[Java concurrency](https://jenkov.com/tutorials/java-concurrency/concurrency-models.html)|jenkov.com|:hourglass:|
 |4.|Java Multithreading|[ Java Multithreading](https://www.udemy.com/course/java-multithreading/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-EEiV7stkZNhFdubcWs._cw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)|Udemy free course (2.5 hours)|:hourglass:|
 |5.|Master Java Multithreading Programming from Zero (Modern)|[Master Java Multithreading](https://www.udemy.com/course/java-multi-threading-programming/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-M7ZIY4IEDOE5n6csacdMrQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)|Udemy free course (8.5 hours)|:hourglass:|
+
 
 
