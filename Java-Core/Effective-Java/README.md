@@ -11,4 +11,20 @@ As in previous editions, each chapter consists of several “items” presented 
 - Focus on the language and its most fundamental libraries: java.lang, java.util, and, to a lesser extent, java.util.concurrent and java.io
 
   ## Study Plan 📚
-  
+
+|Chapter|Name|Practice(code)|Related Resource|Status|
+|-------|----|--------------|----------------|------|
+|1|_Introdction_|||:heavy_check_mark:|
+|2|_Creating and Destroying Objects_|||⌛|
+|3|_Operators_|||⌛|
+|4|_Classes and Interfaces_ |||⌛|
+|5|_Generics_|||⌛|
+|6|_Enums and Annotations_|||⌛|
+|7|_Lambdas and Streams_|||⌛|
+|8|_ Methods_|||⌛|
+|9|_General Programming_|||⌛|
+|10|_Exceptions_|||⌛|
+|11|_Concurrency_|||⌛|
+|12|_Serialization_|||⌛|
+
+
