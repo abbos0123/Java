@@ -5,8 +5,6 @@ Head First Java covers the essential Java programming knowledge about class, obj
 
 They also have some advanced section on Swing, networking, and Java IO, which makes them a complete package for Java beginners. This should be your first Java book you look at if you’re starting from scratch.
 
-## Book Content 📚
-
 ## Study Plan 📚
 
 |Chapter|Name|Practice(code)|Related Resource|Status|
