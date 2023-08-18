@@ -21,3 +21,4 @@ Core Java covers all the basic and fundamental Java programming language concept
 |1|Thinking in Java|[Thinking in Java](https://github.com/abbos0123/Java/tree/main/Java-Core/Thinking-in-Java)|1070|✔️|
 |2|Java 8 in Action|[Java 8 in Action](https://github.com/abbos0123/Java/tree/main/Java-Core/Java-8-in-Action)|497|✔️|
 |3|Head First Java|[Head First Java](https://github.com/abbos0123/Java/tree/main/Java-Core/Head-First-Java)|722|✔️|
+|4|Effective Java|[Effective Java](https://github.com/abbos0123/Java/tree/main/Java-Core/Effective-Java)|901|✔️|
